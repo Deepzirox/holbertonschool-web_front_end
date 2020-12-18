@@ -1,0 +1,15 @@
+/* assignation of more colors with scss */
+$main_color: #3D3D3D;
+$background_color: #6D6D6D;
+
+body {
+    color: $main_color;
+}
+
+p {
+    color: $main_color;
+}
+
+h2 {
+    background: $background_color;
+}
