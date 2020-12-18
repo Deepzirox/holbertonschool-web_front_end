@@ -1,6 +1,10 @@
 /* Asing color to body and p tag */
 $main_color: #3D3D3D;
 
-body, p {
+body {
+  color: $main_color;
+}
+
+p {
   color: $main_color;
 }
